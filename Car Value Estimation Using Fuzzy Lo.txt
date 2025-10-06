@@ -1,0 +1,11 @@
+Car Value Estimation Using Fuzzy Logic
+
+Proyek ini menerapkan logika fuzzy untuk memperkirakan kondisi mobil berdasarkan usia mobil dan jarak tempuh (kilometer yang telah digunakan).
+Fungsi keanggotaan dibuat untuk variabel Usia Mobil (Baru, Sedang, Lama) dan Kilometer (Rendah, Sedang, Tinggi).
+Sistem ini menghasilkan Skor Kondisi (Poor–Excellent) yang menggambarkan nilai keseluruhan mobil.
+
+Selain itu, ditambahkan kolom baru (Car_Age dan Condition_Score) untuk menganalisis tren kondisi mobil.
+Hasil visualisasi menunjukkan bahwa mobil yang lebih tua dan memiliki jarak tempuh tinggi cenderung memiliki skor kondisi yang lebih rendah.
+
+LiNK GITHUB
+github.com/aini1802/UIB-2331174-Nur-Aini-Binti-Abu
